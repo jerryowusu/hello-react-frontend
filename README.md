@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/thecodechaser-blueviolet)
+![](https://img.shields.io/badge/jerryowusu-blueviolet)
 
 # Hello React Front End app
 
